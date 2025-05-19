@@ -189,5 +189,17 @@ body {
     border-radius: 6px;
 }
 
+.footer {
+    background-color: #1F2937;
+    height: 60px;
+    color: #F9FAF8;
+    font-family: roboto;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
 
 
